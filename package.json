@@ -1,0 +1,27 @@
+{
+  "name": "koodoo",
+  "main": "koodoo.js",
+  "version": "0.0.0",
+  "author": "Roberson Franze <robersonfranze@gmail.com>",
+  "license": "ISC",
+  "contributors": [],
+  "description": "KooDoo Unit tests",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "testing",
+    "jest",
+    "unit",
+    "tests",
+    "integration",
+    "tests",
+    "e2e",
+    "tests"
+  ]
+}
